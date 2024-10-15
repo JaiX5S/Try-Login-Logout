@@ -1,0 +1,71 @@
+/*
+<style type="text/css">
+  /* Add a blue border to the input fields */
+  .form-control {
+    border: 1px solid #007bff;
+  }
+
+  /* Change the font family and size of the labels */
+  .form-label {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+
+  /* Add a green color to the submit button */
+  .btn-primary {
+    background-color: #34c759;
+    border-color: #34c759;
+  }
+
+  /* Add a hover effect to the submit button */
+  .btn-primary:hover {
+    background-color: #2e865f;
+    border-color: #2e865f;
+  }
+</style>
+
+<style type="text/css">
+  /* Add a border to the form */
+  form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  /* Add a border to the input fields */
+  .form-control {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+  }
+
+  /* Change the font family and size of the labels */
+  .form-label {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+
+  /* Add a green color to the submit button */
+  .btn-primary {
+    background-color: black;
+    border-color: black;
+  }
+
+  /* Add a hover effect to the submit button */
+  .btn-primary:hover {
+    background-color: #2e865f;
+    border-color: #2e865f;
+  }
+</style>
+
+<style type="text/css">
+  /* Existing styles... */
+
+  /* Add this new rule for input hover effect */
+  .form-control:hover {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    transition: all 0.3s ease-in-out;
+  }
+
+  /* Rest of your existing styles... */
+</style>
